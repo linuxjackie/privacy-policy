@@ -1,48 +1,102 @@
-# 隱私政策
+# Score Calculator - Release Notes
 
-最後更新日期：2024年2月1日
+## Version 1.3.4 (February 15, 2024)
+- Added: Export and import functionality for score data
+- Fixed: Theme color not updating properly in settings
+- Fixed: Application icon display issues
+- Improved: Overall app performance and stability
 
-## 引言
-感謝您使用分數計算器應用程式。本隱私政策旨在說明我們如何收集、使用和保護您的個人信息。
+# Privacy Policy for Score Calculator
 
-## 信息收集
-我們的應用程式收集以下信息：
+Last Updated: February 15, 2024
 
-### 不收集個人信息
-- 我們不收集任何個人身份信息
-- 不要求用戶註冊或登錄
-- 不收集位置信息
+## Introduction
+Thank you for using Score Calculator. This privacy policy explains how we collect, use, and protect your information when you use our application. We are committed to protecting your privacy and ensuring transparency in our data practices.
 
-### 自動收集的信息
-- 應用程式崩潰報告
-- 基本使用統計數據（通過 Google Play Console）
-- 廣告展示數據（通過 Google AdMob）
+## Information Collection
+Our application collects the following types of information:
 
-## 信息使用
-收集的信息用於：
-- 改進應用程式性能
-- 修復錯誤
-- 優化用戶體驗
-- 提供相關廣告
+### Personal Information
+We do NOT collect any personal identifiable information (PII) such as:
+- Names
+- Email addresses
+- Phone numbers
+- Location data
+- Login credentials (no account required)
 
-## 廣告
-我們使用 Google AdMob 來展示廣告。AdMob 可能會使用設備標識符來提供個性化廣告。這遵循 Google 的隱私政策。
+### Automatically Collected Information
+We collect minimal technical information required for app functionality and improvement:
+- App crash reports (for stability improvement)
+- Basic usage statistics (through Google Play Console)
+- Ad display data (through Google AdMob)
+- Device information (OS version, device model) for compatibility purposes
 
-## 數據安全
-我們採取適當的技術措施來保護收集的信息：
-- 所有數據都存儲在設備本地
-- 不進行雲端存儲
-- 不與第三方共享數據
+### Storage Permissions
+Our app requests storage permissions for:
+- Saving score data locally on your device
+- Importing/exporting score data (CSV files)
+All data is stored locally on your device and is not transmitted to our servers.
 
-## 兒童隱私
-我們的應用程式不針對13歲以下的兒童。我們不會故意收集兒童的個人信息。
+## How We Use Information
+The collected information is used solely for:
+- Improving app performance and stability
+- Bug fixing and technical issue resolution
+- Enhancing user experience
+- Providing relevant advertisements
+- Generating anonymous usage statistics
 
-## 變更
-我們保留隨時更新本隱私政策的權利。更新後的政策將在本頁面公布。
+## Advertisements
+We use Google AdMob to display advertisements:
+- AdMob may use device identifiers for personalized advertising
+- Ad personalization can be controlled through your device settings
+- We do not share your personal data with advertisers
+- All ad-related data handling follows Google's privacy policy
 
-## 聯繫我們
-如果您對本隱私政策有任何問題，請通過以下方式聯繫我們：
-- 電子郵件：codebearltd@gmail.com
+## Data Security
+We implement appropriate security measures:
+- All app data is stored locally on your device
+- No cloud storage is used
+- No data transmission to external servers (except for basic crash reports and ad services)
+- Regular security updates and patches
 
-## 同意
-使用我們的應用程式即表示您同意本隱私政策的條款。如果您不同意這些條款，請停止使用本應用程式。
+## Data Retention
+- Score data is retained on your device until you choose to delete it
+- You can clear app data through your device's settings at any time
+- Crash reports and usage statistics are retained for a maximum of 90 days
+
+## Children's Privacy
+- Our app does not target children under 13
+- We do not knowingly collect information from children
+- If you believe we have inadvertently collected information from a child, please contact us
+
+## Your Rights
+You have the right to:
+- Access your locally stored data
+- Export your data
+- Delete your data
+- Control app permissions through your device settings
+
+## Changes to Privacy Policy
+- We reserve the right to update this privacy policy
+- Changes will be posted within the app and on this page
+- Continued use of the app after changes implies acceptance
+
+## Third-Party Services
+Our app integrates with:
+- Google Play Services
+- Google AdMob
+Each service has its own privacy policy and data handling practices
+
+## Contact Information
+For privacy-related questions or concerns:
+- Email: codebearltd@gmail.com
+- Response time: Within 48 hours
+
+## Compliance
+This app complies with:
+- Google Play Store policies
+- GDPR (General Data Protection Regulation)
+- CCPA (California Consumer Privacy Act)
+
+## Consent
+By using Score Calculator, you consent to this privacy policy. If you disagree with these terms, please uninstall the application. 
