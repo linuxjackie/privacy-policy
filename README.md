@@ -1,4 +1,4 @@
-# Score Calculator - Release Notes
+# Score - Release Notes
 
 ## Version 1.3.4 (February 15, 2024)
 - Added: Export and import functionality for score data
